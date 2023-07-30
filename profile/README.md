@@ -1,4 +1,11 @@
-## Hi there 👋
+## Logo
+Logo of the organization will be available after the trademark registration process.
+
+## Vision
+Will be added soon...
+
+## Mission
+Will be added soon...
 
 <!--
 
