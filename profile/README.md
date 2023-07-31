@@ -5,10 +5,10 @@
 Logo of the organization will be available after the trademark registration process.
 
 ## Vision
-[Vision](https://github.com/WilczCom/.github/wiki/About-Wilcz#mission)
+[Vision](https://github.com/WilczCom/.github/wiki/About-Wilcz#vision)
 
 ## Mission
-Will be added soon...
+[Mission](https://github.com/WilczCom/.github/wiki/About-Wilcz#mission)
 
 <!--
 
