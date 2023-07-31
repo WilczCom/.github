@@ -1,5 +1,5 @@
 ## Wiki
-[Wiki](https://github.com/WilczCom/.github/wiki)
+[Wiki](https://github.com/WilczCom/.github/wiki) - Learn more about the Wilcz organization
 
 ## Logo
 Logo of the organization will be available after the trademark registration process.
