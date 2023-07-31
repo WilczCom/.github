@@ -1,14 +1,16 @@
-### Wiki
-[Wiki](https://github.com/WilczCom/.github/wiki) - Learn more about the Wilcz organization
+# Wilcz
 
-### Logo
+desc ...
+
+## Wiki
+[Click!](https://github.com/WilczCom/.github/wiki) - Learn more about the Wilcz organization
+
+## Logo
 Logo of the organization will be available after the trademark registration process.
 
-### Vision
-[Vision](https://github.com/WilczCom/.github/wiki/About-Wilcz#vision)
-
-### Mission
-[Mission](https://github.com/WilczCom/.github/wiki/About-Wilcz#mission)
+## Vision & Mission
+- [Vision](https://github.com/WilczCom/.github/wiki/About-Wilcz#vision)
+- [Mission](https://github.com/WilczCom/.github/wiki/About-Wilcz#mission)
 
 <!--
 
