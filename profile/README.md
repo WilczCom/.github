@@ -1,3 +1,6 @@
+## Wiki
+[Wiki](https://github.com/WilczCom/.github/wiki)
+
 ## Logo
 Logo of the organization will be available after the trademark registration process.
 
