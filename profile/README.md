@@ -1,6 +1,6 @@
 # Wilcz
 
-desc ...
+This organization focuses on taking over abandoned repositories in diverse projects and revitalizing them by fostering an active community of contributors. Their approach centers around open collaboration, encouraging developers worldwide to participate actively in project development. By breathing new life into forgotten projects, they aim to create sustainable and interconnected ecosystems, making a positive impact on the global tech community.
 
 ## Wiki
 [Click!](https://github.com/WilczCom/.github/wiki) - Learn more about the Wilcz organization
